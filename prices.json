@@ -4,6 +4,12 @@
     "fast": 2.0
   },
   "models": {
+    "gpt-6.1-sol": {
+      "input": 2.0,
+      "cached_input": 0.1,
+      "cache_write_input": 2.5,
+      "output": 10.0
+    },
     "gpt-6-astra": {
       "input": 10.0,
       "cached_input": 1.0,
